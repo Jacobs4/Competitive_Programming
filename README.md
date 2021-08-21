@@ -1,5 +1,5 @@
 # competitive_programming
-All my Pain and Suffering lies here.
+Solutions to HackerRank problems in Python.
 
 _**All the code is in Python.**_
 <br>If I'm alive and doing well, I may upload more code and update existing code to different languages.
