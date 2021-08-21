@@ -1,1 +1,1 @@
-Copy the function in this file and replace it with the functin in the HackerRank IDE.
+Copy the function in this file and replace it with the function in the HackerRank IDE.
