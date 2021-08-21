@@ -1,17 +1,4 @@
-#!/bin/python3
-
-import math
-import os
-import random
-import re
-import sys
-
-#
-# Complete the 'miniMaxSum' function below.
-#
-# The function accepts INTEGER_ARRAY arr as parameter.
-#
-
+# replace your function with this
 def miniMaxSum(arr):
     arr.sort()
     temp = 0
@@ -23,9 +10,3 @@ def miniMaxSum(arr):
         temp += arr[i]
     print(temp)
     return
-
-if __name__ == '__main__':
-
-    arr = list(map(int, input().rstrip().split()))
-
-    miniMaxSum(arr)
