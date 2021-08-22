@@ -23,6 +23,7 @@ This repo contains code for the problems from
 * [Birthday Cake Candles](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Birthday_Cake_Candles.py)
 * [Time Conversion](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Time_Conversion.py)
 * [Grading Students](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Grading_Students.py)
+* [Apple and Orange](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Apple_and_Orange.py)
 
 
 
