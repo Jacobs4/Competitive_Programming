@@ -27,6 +27,8 @@ This repo contains code for the problems from
 * [Number Line Jumps](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Number_Line_Jumps.py)
 * [Between Two Sets](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Between_Two_Sets.py)
 * [Breaking the Record](/HackerRank/Algorithms/Breaking_the_Record.py)
+* [Subarray Division](HackerRank/Algorithms/Subarray_Division.py)
+* [Divisible Sum Pairs](HackerRank/Algorithms/Divisible_Sum_Pairs.py)
 
 
 
