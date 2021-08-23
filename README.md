@@ -4,9 +4,9 @@ Solutions to HackerRank problems in Python.
 _**All the code is in Python.**_
 <br>If I'm alive and doing well, I may upload more code and update existing code to different languages.
 
-This repo contains code for the problems from 
-* [**InterviewBit**](https://www.interviewbit.com/practice/) 
-* [**CodeChef**](https://www.codechef.com/) 
+This repo contains code for the problems from
+* [**InterviewBit**](https://www.interviewbit.com/practice/)
+* [**CodeChef**](https://www.codechef.com/)
 * [**HackerRank**](https://www.hackerrank.com/dashboard)
 
 <h3>HackerRank:</h3>
@@ -26,8 +26,8 @@ This repo contains code for the problems from
 * [Apple and Orange](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Apple_and_Orange.py)
 * [Number Line Jumps](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Number_Line_Jumps.py)
 * [Between Two Sets](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Between_Two_Sets.py)
+* [Breaking the Record](/HackerRank/Algorithms/Breaking_the_Record.py)
 
 
 
 hackerrank solutions github | hackerrank all solutions | hackerrank cracking the coding interview solutions | hackerrank data structures | hackerrank solutions algorithms | hackerrank challenge | hackerrank coding challenge | hackerrank algorithms solutions github| hackerrank problem solving | hackerrank programs solutions |all hackerrank solutions | Coding Interview Preparation
-
