@@ -1,5 +1,5 @@
 # competitive_programming
-Hit CTRL + F and search for the problem you want
+<h3>Hit CTRL + F and search for the problem you want</h3>
 Solutions to HackerRank problems in Python.
 
 _**All the code is in Python.**_
