@@ -1,4 +1,5 @@
 # competitive_programming
+Hit CTRL + F and search for the problem you want
 Solutions to HackerRank problems in Python.
 
 _**All the code is in Python.**_
