@@ -30,10 +30,10 @@ This repo contains code for the problems from
 * [Subarray Division](HackerRank/Algorithms/Subarray_Division.py)
 * [Divisible Sum Pairs](HackerRank/Algorithms/Divisible_Sum_Pairs.py)
 * [Migratory Birds](HackerRank/Algorithms/Migratory_Birds.py)
-* [Day of the Programmer](HackerRank/Algorithms/Day_of_the_Programer.py)
+* [Day of the Programmer](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Day_of_the_Programmer.py)
 * [Bill Division](HackerRank/Algorithms/Bill_Division.py)
 * [Sales by Match](HackerRank/Algorithms/Sales_by_Match.py)
-* [Drawing Book](HackerRank.Algorithms/Drawing_Book.py)
+* [Drawing Book](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Drawing_Book.py)
 
 
 
