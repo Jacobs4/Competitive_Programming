@@ -35,6 +35,11 @@ This repo contains code for the problems from
 * [Bill Division](HackerRank/Algorithms/Bill_Division.py)
 * [Sales by Match](HackerRank/Algorithms/Sales_by_Match.py)
 * [Drawing Book](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Drawing_Book.py)
+* [Counting Valleys](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Counting_Valleys.py)
+* [Electronics Shop](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Electronics_Shop.py)
+* [Cats and a Mouse](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Cats_and_a_Mouse.py)
+* [Forming a Magic Square](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Forming_a_Magic_Square.py)
+* [Picking Numbers](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Picking_Numbers.py)
 
 
 
