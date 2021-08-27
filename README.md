@@ -41,6 +41,10 @@ This repo contains code for the problems from
 * [Forming a Magic Square](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Forming_a_Magic_Square.py)
 * [Picking Numbers](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Picking_Numbers.py)
 
+[Mathematics]()
+* [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
+* [Diwali Lights](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Diwali_Lights.py)
+
 
 
 hackerrank solutions github | hackerrank all solutions | hackerrank cracking the coding interview solutions | hackerrank data structures | hackerrank solutions algorithms | hackerrank challenge | hackerrank coding challenge | hackerrank algorithms solutions github| hackerrank problem solving | hackerrank programs solutions |all hackerrank solutions | Coding Interview Preparation
