@@ -40,10 +40,16 @@ This repo contains code for the problems from
 * [Cats and a Mouse](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Cats_and_a_Mouse.py)
 * [Forming a Magic Square](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Forming_a_Magic_Square.py)
 * [Picking Numbers](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Picking_Numbers.py)
+* [The Hurdle Race](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/The_Hurdle_Race.py)
+* [Design Pdf Viewer](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Design_Pdf_Viewer.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
 * [Diwali Lights](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Diwali_Lights.py)
+
+
+want to contribute ? Read [Contribution Guideliness](https://github.com/CherprangA/Competitive_Programming/blob/main/CONTRIBUTING.md)<br>
+[About me](https://github.com/CherprangA/Competitive_Programming/blob/main/about_me.md)
 
 
 
