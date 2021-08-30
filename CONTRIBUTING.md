@@ -1,0 +1,1 @@
+This repo contains experience of MY programming career, so, I won't be accepting any new contriubutions on adding new files. However, update for the code or update to different languages for existing files is always welcomed.
