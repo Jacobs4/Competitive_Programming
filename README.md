@@ -42,11 +42,11 @@ This repo contains code for the problems from
 * [Picking Numbers](https://github.com/CherprangA/competitive_programming/blob/main/HackerRank/Algorithms/Picking_Numbers.py)
 * [The Hurdle Race](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/The_Hurdle_Race.py)
 * [Design Pdf Viewer](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Design_Pdf_Viewer.py)
+* [Utopian Tree](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Utopian_Tree.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
 * [Diwali Lights](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Diwali_Lights.py)
-* [Utopian Tree](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Utopian_Tree.py)
 
 
 want to contribute ? Read [Contribution Guideliness](https://github.com/CherprangA/Competitive_Programming/blob/main/CONTRIBUTING.md)<br>
