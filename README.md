@@ -45,6 +45,7 @@ This repo contains code for the problems from
 * [Utopian Tree](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Utopian_Tree.py)
 * [Angry Professor](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Angry_Professor.py)
 * [Beautiful Days at the Movies](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Beautiful_days_at_the_movies.py)
+* [Viral Advertising](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Viral_Advertising.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
