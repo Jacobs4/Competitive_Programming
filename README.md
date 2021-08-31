@@ -51,6 +51,7 @@ This repo contains code for the problems from
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
 * [Diwali Lights](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Diwali_Lights.py)
+* [Jim and the Jokes](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Jim_and_the_Jokes.py)
 
 
 want to contribute ? Read [Contribution Guideliness](https://github.com/CherprangA/Competitive_Programming/blob/main/CONTRIBUTING.md)<br>
