@@ -46,6 +46,7 @@ This repo contains code for the problems from
 * [Angry Professor](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Angry_Professor.py)
 * [Beautiful Days at the Movies](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Beautiful_days_at_the_movies.py)
 * [Viral Advertising](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Viral_Advertising.py)
+* [Save the Prisoner](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Save_the_Prisoner.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
