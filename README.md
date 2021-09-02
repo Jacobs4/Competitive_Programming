@@ -49,6 +49,7 @@ This repo contains code for the problems from
 * [Save the Prisoner](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Save_the_Prisoner.py)
 * [Circular Array Rotation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Circular_Array_Rotation.py)
 * [Sequence Equation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Sequence_Equation.py)
+* [Jumping on the Clouds](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Jumping_on_the_Clouds.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
