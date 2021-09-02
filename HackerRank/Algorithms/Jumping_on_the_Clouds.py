@@ -1,4 +1,4 @@
-def jumpingOnClouds(c, k):
+ef jumpingOnClouds(c, k):
     e  = 100
     n=len(c)
     i = 0
@@ -10,8 +10,5 @@ def jumpingOnClouds(c, k):
                 return e-3
             else:
                 return e-1            
-        if c[j] == 1:
-            e = e-3
-        else:
-            e-=1
+        e = e-3 if c[j]==1 else e-1
         i=j
