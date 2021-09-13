@@ -1,4 +1,4 @@
-# The amount of brain damage I had suffered just to understand the problems statement and the example given in it is insanse.
+# The amount of brain damage I had suffered just to understand the problem statement and the example given in it is insanse.
 def dec(base, n):
     ans = 0
     for i in str(n):
