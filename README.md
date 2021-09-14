@@ -51,6 +51,7 @@ This repo contains code for the problems from
 * [Sequence Equation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Sequence_Equation.py)
 * [Jumping on the Clouds](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Jumping_on_the_Clouds.py)
 * [Abbrevation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbrevation.py)
+* [Connected Cells in a Grid](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Connected_Cells_in_a_Grid.py)
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
