@@ -52,6 +52,8 @@ This repo contains code for the problems from
 * [Jumping on the Clouds](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Jumping_on_the_Clouds.py)
 * [Abbreviation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbrevation.py) | [Abbreviation without DP](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbreviation_without_dp.py)
 * [Connected Cells in a Grid](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Connected_Cells_in_a_Grid.py)
+* [Find Digits](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Find_Digits.py)
+
 
 [Mathematics]()
 * [Die hard 3](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Mathematics/Die_Hard_3.py)
