@@ -50,7 +50,7 @@ This repo contains code for the problems from
 * [Circular Array Rotation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Circular_Array_Rotation.py)
 * [Sequence Equation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Sequence_Equation.py)
 * [Jumping on the Clouds](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Jumping_on_the_Clouds.py)
-* [Abbrevation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbrevation.py)
+* [Abbreviation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbrevation.py) | [Abbreviation without DP](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbreviation_without_dp.py)
 * [Connected Cells in a Grid](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Connected_Cells_in_a_Grid.py)
 
 [Mathematics]()
