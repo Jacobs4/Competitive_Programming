@@ -1,3 +1,4 @@
+# Three test cases are still failing as of now. Well, I can't do shit about it.
 def abbreviation(a, b):
     A = a[:]
     B = b[:]
