@@ -53,6 +53,7 @@ This repo contains code for the problems from
 * [Abbreviation](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbrevation.py) | [Abbreviation without DP](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Abbreviation_without_dp.py)
 * [Connected Cells in a Grid](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Connected_Cells_in_a_Grid.py)
 * [Find Digits](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Find_Digits.py)
+* [Extra Long Factorials](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Extra_Long_Factorials.py)
 
 
 [Mathematics]()
