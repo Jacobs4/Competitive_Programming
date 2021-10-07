@@ -54,6 +54,7 @@ This repo contains code for the problems from
 * [Connected Cells in a Grid](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Connected_Cells_in_a_Grid.py)
 * [Find Digits](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Find_Digits.py)
 * [Extra Long Factorials](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Extra_Long_Factorials.py)
+* [Append and Delete](https://github.com/CherprangA/Competitive_Programming/blob/main/HackerRank/Algorithms/Append_and_Delete.py)
 
 
 [Mathematics]()
