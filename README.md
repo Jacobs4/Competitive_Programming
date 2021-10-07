@@ -1,4 +1,5 @@
 # competitive_programming
+[About me](https://github.com/CherprangA/Competitive_Programming/blob/main/about_me.md) | [Help me buy a PC](https://www.buymeacoffee.com/Cherprang)
 <h3>Hit CTRL + F and search for the problem you want</h3>
 Solutions to HackerRank problems in Python.
 
@@ -64,8 +65,7 @@ This repo contains code for the problems from
 
 
 want to contribute ? Read [Contribution Guideliness](https://github.com/CherprangA/Competitive_Programming/blob/main/CONTRIBUTING.md)<br>
-[About me](https://github.com/CherprangA/Competitive_Programming/blob/main/about_me.md)<br>
-[Buy me a Pizza](https://www.buymeacoffee.com/Cherprang)
+
 
 
 
