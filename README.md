@@ -64,7 +64,7 @@ This repo contains code for the problems from
 
 
 want to contribute ? Read [Contribution Guideliness](https://github.com/CherprangA/Competitive_Programming/blob/main/CONTRIBUTING.md)<br>
-[About me](https://github.com/CherprangA/Competitive_Programming/blob/main/about_me.md)
+[About me](https://github.com/CherprangA/Competitive_Programming/blob/main/about_me.md)<br>
 [Buy me a Pizza](https://www.buymeacoffee.com/Cherprang)
 
 
